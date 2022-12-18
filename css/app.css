@@ -21,11 +21,7 @@ body {
     width: 80%;
 }
 
-.destination-container {
-    display: flex;
-    flex-flow: wrap;
-    justify-content: center;
-}
+
 
 .destination {
     background: #03a9f4;
